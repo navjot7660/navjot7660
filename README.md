@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔐 Cybersecurity Enthusiast <br>👨‍💻 Passionate about secure coding, threat detection, and cloud security. <br>💡 Always learning, always securing!
+Passionate about secure coding, threat detection, and cloud security. <br>💡 Always learning, always securing!
 
 
 ## 🌐 Socials:
